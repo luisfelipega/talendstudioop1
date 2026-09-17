@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_PJxUQLKXEfG4jvfbcAcP6Q" label="proyecto2" description="" language="java" technicalLabel="PROYECTO2" author="_PJxUQbKXEfG4jvfbcAcP6Q" productVersion="Talend Data Management Platform-8.0.1.20260820_0911-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/luisfelipega/talendstudioop1.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_PLImMLKXEfG4jvfbcAcP6Q" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_PJxUQbKXEfG4jvfbcAcP6Q" login="tac_admin@prediqtdata.com" firstName="tac" lastName="admin" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_TMRgYLKXEfG4jvfbcAcP6Q" login="ts_usuario1@prediqtdata.com" firstName="usuario" lastName="uno" type="DQ" additionnalData="{}"/>
+</xmi:XMI>
